@@ -8,11 +8,11 @@
 		<version>2.7.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.regsuperior</groupId>
+	<groupId>com.devsuperior</groupId>
 	<artifactId>dsmeta</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dsmeta</name>
-	<description>Primeiro Projeto Regina</description>
+	<description>Projeto Spring React Devsuperior</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -52,7 +52,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-resources-plugin</artifactId>
-				<version><![CDATA[3.1.0]]></version><!--$NO-MVN-MAN-VER$ -->
+				<version>3.1.0</version><!--$NO-MVN-MAN-VER$ -->
 			</plugin>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -62,3 +62,4 @@
 	</build>
 
 </project>
+
